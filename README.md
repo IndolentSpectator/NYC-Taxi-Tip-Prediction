@@ -2,7 +2,7 @@
 
 
 ## Project Overview
-This project aims to predict the duration of taxi trips in New York City using historical trip data. By leveraging machine learning techniques, we analyze various factors such as pickup and drop-off locations, trip distance, and time of day to build predictive models.
+This project aims to develop a machine learning model to predict customer tipping behaviour. It enables taxi drivers to optimize their earnings and improve service strategies in New York City using historical trip data. By leveraging machine learning techniques, we analyze various factors such as pickup and drop-off locations, trip distance, and time of day to build predictive models.
 
 ## Business Understanding
 ### Stakeholders:
@@ -63,6 +63,5 @@ Accurate trip duration prediction can help optimize taxi dispatching, improve pa
 3. Run the Jupyter Notebook.
 4. Ensure datasets are placed in the same directory as the notebook.
 
-## License
-[Specify license, e.g., MIT License]
+
 
