@@ -1,4 +1,4 @@
-# NYC-Taxi-Trip-Duration-Prediction
+# NYC-Taxi-Tip-Duration-Prediction
 
 
 ## Project Overview
